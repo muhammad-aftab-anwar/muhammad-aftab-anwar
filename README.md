@@ -12,7 +12,7 @@
 - 🌱 I'm constantly learning **new ML techniques and architectures**
 - 💡 Passionate about turning data into intelligent solutions
 - 🤝 Open to collaborations on **AI / ML / Data Science** projects
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **mianaftab7222@gmail.com**
 
 ---
 
