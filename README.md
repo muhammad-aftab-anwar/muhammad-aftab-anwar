@@ -12,7 +12,7 @@
 - 🌱 I'm constantly learning **new ML techniques and architectures**
 - 💡 Passionate about turning data into intelligent solutions
 - 🤝 Open to collaborations on **AI / ML / Data Science** projects
-- 📫 Reach me at: **mianaftab7222@gmail.com**
+- 📫 Reach me at: **itzmuhammadaftab@gmail.com**
 
 ---
 
@@ -66,7 +66,7 @@
   <a href="https://linkedin.com/in/muhammad-aftab-anwar1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mianaftab7222@gmail.com">
+  <a href="mailto:itzmuhammadaftab@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/muhammad-aftab-anwar">
