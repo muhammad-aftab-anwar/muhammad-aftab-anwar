@@ -1,17 +1,17 @@
 <h1 align="center">Hi there, I'm Muhammad Aftab Anwar 👋</h1>
 
 <p align="center">
-  <em>🤖 ML / AI Developer &nbsp;|&nbsp; 🧠 Deep Learning Enthusiast &nbsp;|&nbsp; 📊 Data Science &nbsp;|&nbsp; 🌍 Pakistan</em>
+  <em>🤖 DL / AI Developer &nbsp;|&nbsp; 🧠 Deep Learning Enthusiast &nbsp;|&nbsp; 👁️ Computer Vision &nbsp;|&nbsp; 📊 Data Science &nbsp;|&nbsp; 🌍 Pakistan</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Deep Learning & AI projects**
-- 🌱 I'm constantly learning **new ML techniques and architectures**
-- 💡 Passionate about turning data into intelligent solutions
-- 🤝 Open to collaborations on **AI / ML / Data Science** projects
+- 🔭 Currently working on **Deep Learning & Computer Vision** projects
+- 🌱 Constantly exploring new **CNN architectures, transfer learning, and medical imaging techniques**
+- 💡 Passionate about applying computer vision to **medical imaging and diagnostics**
+- 🤝 Open to collaborations on **AI / DL / Computer Vision** projects
 - 📫 Reach me at: **itzmuhammadaftab@gmail.com**
 
 ---
@@ -28,12 +28,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Tools & Platforms
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
 
 ---
 
@@ -41,9 +46,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 [Deep Learning Project](https://github.com/muhammad-aftab-anwar/deep-learning-project) | Neural network model for classification/prediction | TensorFlow, Keras |
-| 📊 [Data Analysis Project](https://github.com/muhammad-aftab-anwar/data-analysis) | EDA and insights from real-world datasets | Pandas, NumPy |
-| 🤖 [ML Pipeline](https://github.com/muhammad-aftab-anwar/ml-pipeline) | End-to-end machine learning pipeline | Scikit-learn, Python |
+| 👁️ Computer Vision Project | Image classification using deep learning and transfer learning | TensorFlow, Keras |
+| 🧠 Deep Learning Project | Neural network model for image classification | TensorFlow, Keras |
+| 📊 Data Analysis Project | EDA and insights from real-world datasets | Pandas, NumPy, Seaborn |
+| 🤖 DL Pipeline | End-to-end deep learning pipeline | Scikit-learn, Python |
 
 ---
 
@@ -81,19 +87,3 @@
 </p>
 
 <p align="center">⭐ <em>From <a href="https://github.com/muhammad-aftab-anwar">muhammad-aftab-anwar</a> — Keep Learning, Keep Building! 🚀</em></p>
-
-
-<!--
-**muhammad-aftab-anwar/muhammad-aftab-anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
