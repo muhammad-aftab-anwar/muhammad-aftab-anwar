@@ -9,8 +9,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **Deep Learning & Computer Vision** projects
-- 🌱 Constantly exploring new **CNN architectures, transfer learning, and medical imaging techniques**
-- 💡 Passionate about applying computer vision to **medical imaging and diagnostics**
+- 🌱 Constantly exploring new **CNN architectures, transfer learning**
+- 💡 Passionate about applying computer vision to **real world application**
 - 🤝 Open to collaborations on **AI / DL / Computer Vision** projects
 - 📫 Reach me at: **itzmuhammadaftab@gmail.com**
 
