@@ -10,7 +10,7 @@
 
 - 🔭 Currently building **YOLO-based computer vision systems** — object detection, pose estimation, and real-time tracking
 - 🧠 Focused on **applied deep learning**: CNNs, transfer learning, and custom architectures for classification & detection
-- 🏗️ Recent work spans **sports analytics, safety/PPE compliance, and medical imaging**
+- 🏗️ Recent work spans **sports analytics, maritime/aerial detection, and image classification**
 - 🛠️ Comfortable across the full pipeline — dataset annotation, training, evaluation, and deploying models as web apps
 - 🤝 Open to collaborations and freelance work on **AI / DL / Computer Vision** projects
 - 📫 Reach me at: **itzmuhammadaftab@gmail.com**
@@ -52,14 +52,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏏 Cricket Object Detection & Tracking | Real-time detection and tracking of players, ball, and umpire across 7 classes using YOLO26 + ByteTrack | YOLO26, ByteTrack, Ultralytics |
-| 🦺 Construction Site PPE Detection | 11-class safety compliance detector (helmets, vests, etc.) with a Streamlit web app for image/video inference | YOLO26, Streamlit, OpenCV |
-| ⚽ Football Match Detection | Multi-class player/ball detection system trained on a custom annotated dataset | YOLO26, Ultralytics HUB |
-| 🤸 Person Fall & Pose Estimation | Pose-based fall detection using YOLO26 pose models | YOLO26-Pose, Ultralytics |
-| 🩺 Skin Disease Classification (HAM10000) | 7-class skin lesion classifier with a custom CNN using residual skip connections to handle class imbalance | TensorFlow, Keras |
-| 🧠 Brain Tumor MRI Classification | 4-class MRI tumor classifier using ResNet50 transfer learning | TensorFlow, Keras, ResNet50 |
-| 😀 Facial Expression Recognition (FER2013) | Emotion classification using EfficientNetB0 | TensorFlow, Keras |
-| 🚦 Traffic Sign Recognition (GTSRB) | Custom deep CNN with CLAHE preprocessing and test-time augmentation | TensorFlow, OpenCV |
+| [🚢 Ship Detection System](https://github.com/muhammad-aftab-anwar/Ship-detection-system) | Detects ships in aerial/satellite imagery using Ultralytics YOLO — includes training, evaluation, and prediction on a custom dataset | YOLO, Ultralytics |
+| [🏏 Cricket Match Detection](https://github.com/muhammad-aftab-anwar/Cricket-match) | Object detection and tracking for cricket match footage (players, ball, umpire) | YOLO, Ultralytics |
+| [⚽ Basketball Detection](https://github.com/muhammad-aftab-anwar/Basketball) | Player and ball detection system trained on custom basketball match data | YOLO, Ultralytics |
+| [👁️ Computer Vision Projects](https://github.com/muhammad-aftab-anwar/Computer-vision) | End-to-end CV projects covering image classification, preprocessing pipelines, and performance evaluation | TensorFlow, Keras |
+| [📊 MLP Projects](https://github.com/muhammad-aftab-anwar/MLP-projects) | Machine learning project with full pipeline — preprocessing, model training, evaluation, and predictions | Python, Scikit-learn |
+
+*More projects (PPE safety detection, pose/fall estimation, medical imaging classifiers) in progress — check back soon!*
 
 ---
 
