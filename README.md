@@ -1,17 +1,18 @@
 <h1 align="center">Hi there, I'm Muhammad Aftab Anwar 👋</h1>
 
 <p align="center">
-  <em>🤖 DL / AI Developer &nbsp;|&nbsp; 🧠 Deep Learning Enthusiast &nbsp;|&nbsp; 👁️ Computer Vision &nbsp;|&nbsp; 📊 Data Science &nbsp;|&nbsp; 🌍 Pakistan</em>
+  <em>🤖 AI / Deep Learning Developer &nbsp;|&nbsp; 👁️ Computer Vision &nbsp;|&nbsp; 🎯 Object Detection & Tracking &nbsp;|&nbsp; 🌍 Pakistan</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Deep Learning & Computer Vision** projects
-- 🌱 Constantly exploring new **CNN architectures, transfer learning**
-- 💡 Passionate about applying computer vision to **real world application**
-- 🤝 Open to collaborations on **AI / DL / Computer Vision** projects
+- 🔭 Currently building **YOLO-based computer vision systems** — object detection, pose estimation, and real-time tracking
+- 🧠 Focused on **applied deep learning**: CNNs, transfer learning, and custom architectures for classification & detection
+- 🏗️ Recent work spans **sports analytics, safety/PPE compliance, and medical imaging**
+- 🛠️ Comfortable across the full pipeline — dataset annotation, training, evaluation, and deploying models as web apps
+- 🤝 Open to collaborations and freelance work on **AI / DL / Computer Vision** projects
 - 📫 Reach me at: **itzmuhammadaftab@gmail.com**
 
 ---
@@ -22,7 +23,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Computer Vision
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
 ### Data & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -33,12 +40,11 @@
 
 ### Tools & Platforms
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
 
 ---
 
@@ -46,10 +52,14 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 👁️ Computer Vision Project | Image classification using deep learning and transfer learning | TensorFlow, Keras |
-| 🧠 Deep Learning Project | Neural network model for image classification | TensorFlow, Keras |
-| 📊 Data Analysis Project | EDA and insights from real-world datasets | Pandas, NumPy, Seaborn |
-| 🤖 DL Pipeline | End-to-end deep learning pipeline | Scikit-learn, Python |
+| 🏏 Cricket Object Detection & Tracking | Real-time detection and tracking of players, ball, and umpire across 7 classes using YOLO26 + ByteTrack | YOLO26, ByteTrack, Ultralytics |
+| 🦺 Construction Site PPE Detection | 11-class safety compliance detector (helmets, vests, etc.) with a Streamlit web app for image/video inference | YOLO26, Streamlit, OpenCV |
+| ⚽ Football Match Detection | Multi-class player/ball detection system trained on a custom annotated dataset | YOLO26, Ultralytics HUB |
+| 🤸 Person Fall & Pose Estimation | Pose-based fall detection using YOLO26 pose models | YOLO26-Pose, Ultralytics |
+| 🩺 Skin Disease Classification (HAM10000) | 7-class skin lesion classifier with a custom CNN using residual skip connections to handle class imbalance | TensorFlow, Keras |
+| 🧠 Brain Tumor MRI Classification | 4-class MRI tumor classifier using ResNet50 transfer learning | TensorFlow, Keras, ResNet50 |
+| 😀 Facial Expression Recognition (FER2013) | Emotion classification using EfficientNetB0 | TensorFlow, Keras |
+| 🚦 Traffic Sign Recognition (GTSRB) | Custom deep CNN with CLAHE preprocessing and test-time augmentation | TensorFlow, OpenCV |
 
 ---
 
