@@ -64,17 +64,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-aftab-anwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-aftab-anwar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammad-aftab-anwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-aftab-anwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" /> </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammad-aftab-anwar&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=muhammad-aftab-anwar&theme=tokyonight&hide_border=true" width="65%" /> </p>
 
 ---
+📈 Contribution Activity
 
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-aftab-anwar&theme=tokyo-night&hide_border=true&area=true" width="95%" /> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/muhammad-aftab-anwar/muhammad-aftab-anwar/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/> </p>
 ## 🔗 Connect With Me
 
 <p align="center">
